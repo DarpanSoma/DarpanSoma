@@ -50,24 +50,30 @@ My curiosity of developer started in 2022 but i didnt start doing anything until
 
 ---
 
-## Languages I Am Training to Get Better At
+## Learning
 
-- HTML  
-- CSS  
-- JavaScript  
+<details>
+  <summary><b>Click to expand</b></summary>
+  <br>
 
----
+  <b>Languages I Am Training to Get Better At</b>
 
-## Plan to Learn
+  - HTML  
+  - CSS  
+  - JavaScript  
 
-- Node.js  
-- react  
-- python  
-- lua (roblox games development)  
-- sql and nosql  
-- Plus more in the featuure  
+  <br>
 
----
+  <b>Plan to Learn</b>
+
+  - Node.js  
+  - react  
+  - python  
+  - lua (roblox games development)  
+  - sql and nosql  
+  - Plus more in the featuure  
+
+</details>
 
 ## Skills & Tools
 
