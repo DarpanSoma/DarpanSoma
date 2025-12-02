@@ -38,10 +38,6 @@
 
 </p>
 
-<p align="center">
-  <img src="https://lanyard.cnrad.dev/api/928412310249287691?borderRadius=20&bg=141414&animated=true&hideBadges=false&accentColor=4b9cd3&idleMessage=Grinding%20code..." />
-</p>
-
 ---
 
 # Where It Started
